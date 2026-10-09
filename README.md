@@ -143,12 +143,6 @@ git clone https://github.com/shashankkachouli/Sales-Performance-Analytics.git
 - Expand sales forecasting and trend analysis
 - Document validated business insights
 
-## Project Attribution
-
-This repository is based on the open-source project [SalesAnalysis_SQL_PowerBI](https://github.com/AsifRashid01/SalesAnalysis_SQL_PowerBI) by AsifRashid01.
-
-The initial SQL scripts, data, documentation, and Power BI report originate from that project. Any subsequent independent modifications and analysis will be documented here.
-
 ## Repository Maintainer
 
 **Shashank Kachouli**
